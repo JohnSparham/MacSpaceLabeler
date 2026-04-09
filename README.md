@@ -17,7 +17,7 @@ If you use multiple Spaces and can't tell them apart, Space Labeler gives each o
 
 ## Screenshot
 
-![Space Labeler in Mission Control](screenshot.jpg)
+![Space Labeler in Mission Control](mission-control.jpg)
 
 ## Download
 
