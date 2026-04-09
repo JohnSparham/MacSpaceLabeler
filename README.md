@@ -15,9 +15,9 @@ If you use multiple Spaces and can't tell them apart, Space Labeler gives each o
 - **Start at Login** -- toggle from the menu, uses macOS Login Items
 - **Lightweight** -- 66KB DMG, no dependencies, pure Swift + AppKit
 
-## Screenshots
+## Screenshot
 
-*Coming soon*
+![Space Labeler in Mission Control](screenshot.jpg)
 
 ## Download
 
